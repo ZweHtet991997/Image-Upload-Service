@@ -1,0 +1,31 @@
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\Image Upload Service.csproj.AssemblyReference.cache
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\Image Upload Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\Image Upload Service.AssemblyInfoInputs.cache
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\Image Upload Service.AssemblyInfo.cs
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\Image Upload Service.csproj.CoreCompileInputs.cache
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\Image Upload Service.MvcApplicationPartsAssemblyInfo.cache
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\Image Upload Service.RazorAssemblyInfo.cache
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\Image Upload Service.RazorAssemblyInfo.cs
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\bin\Debug\net6.0\appsettings.Development.json
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\bin\Debug\net6.0\appsettings.json
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\bin\Debug\net6.0\Image Upload Service.staticwebassets.runtime.json
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\bin\Debug\net6.0\Image Upload Service.exe
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\bin\Debug\net6.0\Image Upload Service.deps.json
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\bin\Debug\net6.0\Image Upload Service.runtimeconfig.json
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\bin\Debug\net6.0\Image Upload Service.dll
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\bin\Debug\net6.0\Image Upload Service.pdb
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\staticwebassets\msbuild.Image Upload Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\staticwebassets\msbuild.build.Image Upload Service.props
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Image Upload Service.props
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Image Upload Service.props
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\staticwebassets.pack.json
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\staticwebassets.build.json
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\staticwebassets.development.json
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\scopedcss\bundle\Image Upload Service.styles.css
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\scopedcss\projectbundle\Image Upload Service.bundle.scp.css
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\Image Upload Service.dll
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\refint\Image Upload Service.dll
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\Image Upload Service.pdb
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\Image Upload Service.genruntimeconfig.cache
+C:\MyProjects\MyRepo\C#\DotNet\Image Upload Service\Image Upload Service\Image Upload Service\obj\Debug\net6.0\ref\Image Upload Service.dll
