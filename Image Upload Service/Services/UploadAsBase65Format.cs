@@ -27,10 +27,5 @@ namespace Image_Upload_Service.Services
                 return Convert.ToBase64String(imageBytes);
             }
         }
-
-        public Task<string> UploadToRootFolder(IFormFile file)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

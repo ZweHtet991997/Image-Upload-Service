@@ -26,7 +26,7 @@ namespace Image_Upload_Service.Controllers
         [Route("api/method1")]
         public IActionResult Method1([FromForm] IFormFile file)
         {
-            var dataResult = _service2.Method2(file);
+            var dataResult = _service2.Method1(file);
             return Ok(dataResult);
         }
 
@@ -34,7 +34,7 @@ namespace Image_Upload_Service.Controllers
         [Route("api/method2")]
         public IActionResult Method2([FromForm] IFormFile file)
         {
-            var dataResult = _service2.Method3(file);
+            var dataResult = _service2.Method2(file);
             return Ok(dataResult);
         }
     }
